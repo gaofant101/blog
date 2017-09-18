@@ -19,4 +19,4 @@
 
 ## `shell`
 
-[https://github.com/evanhunt/blog](https://github.com/evanhunt/blog/issues/8)
+[记录学习`shell`脚本的过程 #8](https://github.com/evanhunt/blog/issues/8)
