@@ -8,6 +8,10 @@
 
 [浅谈`Nginx` #11](https://github.com/evanhunt/blog/issues/11)
 
+[安装 nginx](https://github.com/evanhunt/blog/issues/21)
+
+[Nginx配置 #12](https://github.com/evanhunt/blog/issues/12)
+
 ## @使用`react`
 
 [修改` Ant-design `的默认样式 #1](https://github.com/evanhunt/blog/issues/1)
