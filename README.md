@@ -29,7 +29,7 @@
 
 ## @`shell`
 
-[记录学习`shell`脚本的过程 #8](https://github.com/evanhunt/blog/issues/8)
+[学习`shell`脚本 #8](https://github.com/evanhunt/blog/issues/8)
 
 ## @`emoji`表情
 
