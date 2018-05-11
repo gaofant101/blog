@@ -36,3 +36,6 @@
 ## @`emoji`表情
 
 [官方emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+
+<p align="center"><img src="https://bumbu.github.io/assets/images/2017/09/skills-diagram.png" /></p>
