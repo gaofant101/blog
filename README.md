@@ -2,6 +2,8 @@
 
 ## @`javascript`
 
+[Observer vs Pub-Sub pattern #22](https://github.com/evanhunt/blog/issues/22)
+
 [并发模型与事件循环 #16](https://github.com/evanhunt/blog/issues/16)
 
 ## @`Nginx`
